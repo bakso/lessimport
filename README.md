@@ -7,9 +7,9 @@ lessimport
 	
 ## Usage
 
-	var getLessImporters = require('lessimport');	
+	var lessImport = require('lessimport');	
 	//file you want to analysis
-	getLessImporters('index.less', 'utf-8');
+	lessImport('index.less', 'utf-8');
 	
 	//return:
 	[ 
