@@ -20,4 +20,4 @@ lessimport
     ]
 
 
-less file dependency analysis,import file analysis,依赖分析
+less file dependency analysis,import file analysis,依赖分析,parseSync
