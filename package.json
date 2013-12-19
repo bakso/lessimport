@@ -1,0 +1,24 @@
+{
+  "name": "lessimport",
+  "version": "0.1.0",
+  "description": "less file dependency analysis,import file analysis,依赖分析",
+  "main": "lessimport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xhowhy/lessimport.git"
+  },
+  "keywords": [
+    "less",
+    "dependency",
+    "analysis",
+    "依赖分析"
+  ],
+  "author": "fanyu.xhy@taobao.com",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/xhowhy/lessimport/issues"
+  }
+}
